@@ -5,32 +5,30 @@
 </p>
 
 <p align="center">
-  I build things that work, scale, and make sense.
+  Building practical, scalable, and well-structured web applications.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,fastapi,react,firebase,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,fastapi,mongodb,firebase,supabase,git,github" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a CS undergraduate with a strong interest in building real-world web applications.
-I care about clean logic, solid fundamentals, and understanding systems instead of blindly following tutorials.
+I’m a CS undergraduate focused on building real-world web applications with clean logic and strong fundamentals.
+I prefer understanding how systems work over blindly following tutorials.
 
-I started with web development to ship projects and gain practical experience, and I’m gradually moving toward more advanced backend systems and AI-driven technologies.
-
-I believe consistency beats talent, and building beats overthinking.
+Web development is my current tool for shipping projects, gaining experience, and learning system-level thinking, with a long-term goal of building AI-powered products.
 
 ---
 
 ## 🚀 What I’m Working On
 
-* Full-stack and backend-focused web projects
-* Strengthening core CS and backend fundamentals
-* Writing cleaner, more maintainable code
-* Preparing for advanced systems and AI concepts
+* Full-stack and backend-focused web applications
+* REST APIs and backend architecture
+* Writing cleaner, maintainable, and scalable code
+* Preparing for more advanced systems and AI concepts
 
 ---
 
@@ -39,19 +37,19 @@ I believe consistency beats talent, and building beats overthinking.
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
 ### Databases & Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
 </p>
 
 ### Tools
@@ -62,24 +60,34 @@ I believe consistency beats talent, and building beats overthinking.
 
 ---
 
-## 📂 What You’ll Find on This GitHub
+## 🧩 Concepts I Work With
 
-* Personal and academic projects
-* Backend APIs and experiments
-* Practice projects to master fundamentals
-* Code written to *learn deeply*, not just look fancy
+* RESTful APIs
+* Authentication & basic authorization
+* CRUD operations & data modeling
+* Client–server architecture
+* Problem-solving through code
 
 ---
 
-## 📈 Goals
+## 📂 What You’ll Find on This GitHub
 
-* Build production-level projects
-* Become strong in backend & system design
-* Transition into AI-powered products
-* Create things that actually impact people
+* Personal and academic projects
+* Backend APIs and full-stack apps
+* Experiments while learning new technologies
+* Code written to learn deeply, not just look impressive
+
+---
+
+## 🎯 Long-Term Goals
+
+* Build production-grade systems
+* Get strong in backend & system design
+* Transition into AI-driven development
+* Create products with real-world impact
 
 ---
 
 <p align="center">
-  <i>Build. Break. Learn. Repeat.</i>
+  <i>Build. Learn. Improve. Repeat.</i>
 </p>
