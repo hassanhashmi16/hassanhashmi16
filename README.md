@@ -55,7 +55,7 @@ Web development is my current tool for shipping projects, gaining experience, an
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,cursor,antigravity,vscode,pycharm" />
 </p>
 
 ---
