@@ -49,13 +49,13 @@ Web development is my current tool for shipping projects, gaining experience, an
 ### Databases & Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,postgresql" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,jira" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma" />
 </p>
 
 ---
