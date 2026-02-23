@@ -37,7 +37,7 @@ Web development is my current tool for shipping projects, gaining experience, an
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,asm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Backend
